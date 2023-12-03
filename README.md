@@ -1,4 +1,7 @@
 
+![Image Alt Text](test_design.png)
+
+
 ## one time setup
 ---
 ```bash
